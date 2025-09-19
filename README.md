@@ -1,21 +1,23 @@
-# 🎵 Music Recommendation System
+# 🎵 Music Recommendation System  
 
-A simple content-based music recommender built with **TF-IDF** and **Cosine Similarity**.  
-Given a song name, it suggests similar songs based on metadata.  
-Implemented in **Python** with **Jupyter Notebook**.
+A **content-based music recommender** built using **TF-IDF Vectorization** and **Cosine Similarity**.  
+Simply enter a song name and the system will suggest **top-N similar songs** based on metadata features.  
 
----
-
-## 📌 Features
-- Input a song → get top-N similar recommendations  
-- Content-based filtering using metadata  
-- Clean and easy-to-run Jupyter Notebook  
+🚀 Implemented in **Python** using **Jupyter Notebook** for easy experimentation and visualization.  
 
 ---
 
-## 🛠️ How to Run
+## ✨ Features
+- 🎶 Recommend similar songs based on user input  
+- 📊 Content-based filtering (no user history required)  
+- ⚡ Lightweight and easy to run in Jupyter Notebook  
+- 📂 Clean project structure with dataset reference and README  
 
-Clone the repository:
+---
+
+## 🛠️ Installation & Usage
+
+1. **Clone the repository**
 ```bash
 git clone https://github.com/RinkuGill/music-recommendation-system.git
 cd music-recommendation-system
